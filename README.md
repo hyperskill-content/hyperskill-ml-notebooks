@@ -2,4 +2,5 @@
 
 ## Module 2: Stepping into Deep Learning internals  
 
-1. [Basics of working with PyTorch](DL_internals/pytorch_tensors.ipynb) 
+1. [Basics of working with PyTorch](DL_internals/pytorch_tensors.ipynb)     
+2. [Convolutional Neural Networks (CNNs) with PyTorch](DL_internals/pytorch_cnn.ipynb) 
